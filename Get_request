@@ -1,3 +1,0 @@
-import requests as rq
-
-rq.get('https://api.github.com')
